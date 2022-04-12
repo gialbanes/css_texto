@@ -1,54 +1,57 @@
 body{
-    background-color: #B0C4DE;
-}
-p.margem{
-    border-style: solid;
-    border-color:#8A2BE2;
+    background-image: url(../fundo.jpg);
+    font-variant: small-caps;
+    font-size: 21px;
+    border: 3px solid rgb(16, 0, 245);
+    right: 0px;
+    width: 1550px;   
 }
 p.titulo{
-    color: #000000;
+    color: #df23d5;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: 0 0 3px #ff0000;
-    text-decoration-line: overline underline;
-    text-decoration-color: purple;
-    font-size: 45;
+    text-align: center;
+    text-shadow: 2px 2px 5px #000000;
+    text-decoration-line: underline;
+    text-decoration-color: #000000;
+    font-size: 60;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 p.subtitulo{
     color:#000000;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
     font-size: 35;
 }
 p.texto1{
     color:	#191970	;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-shadow: 0 0 3px #d483c0;
+    text-shadow: 0 0 3px 	#C71585;
     text-align: center;
+    text-decoration-line: overline underline;
 }
 p.texto2{
-    color:#000080;
+    color: #FF0000;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
     text-align: center;
 }
 p.texto3{
-    color: #00008B;
+    color: 		#32CD32 ;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     text-decoration-line: underline;
 }
 p.texto4{
-    color: 		#0000CD;
+    color: 	#008080;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: justify;
     text-decoration-line: overline underline;
 }
 p.texto5{
-    color:#0000FF;
+    color: 	#FF0000;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: justify;
-    text-decoration-line: underline;
-    color: white;
   text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
 p.texto6{
@@ -59,7 +62,7 @@ p.texto6{
     text-shadow: 2px 2px 4px #000000;
 }
 p.texto7{
-    color: #4682B4;
+    color: #C71585;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: justify;
     text-shadow: 0 0 3px #d483c0;
@@ -73,16 +76,19 @@ p.texto8{
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
 p.texto9{
-    color: 	#1E90FF;
+    color: 	#4B0082;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: justify;
     text-decoration-line: underline;
 }
 p.texto10{
-    color: #6495ED;
+    color: 	#FF8C00;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: justify;
     text-decoration-line: overline underline;
+}
+img{
+    border-radius: 8px;
 }
 
 
