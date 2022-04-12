@@ -1,0 +1,89 @@
+body{
+    background-color: #B0C4DE;
+}
+p.margem{
+    border-style: solid;
+    border-color:#8A2BE2;
+}
+p.titulo{
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0 0 3px #ff0000;
+    text-decoration-line: overline underline;
+    text-decoration-color: purple;
+    font-size: 45;
+}
+p.subtitulo{
+    color:#000000;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35;
+}
+p.texto1{
+    color:	#191970	;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 0 0 3px #d483c0;
+    text-align: center;
+}
+p.texto2{
+    color:#000080;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-align: center;
+}
+p.texto3{
+    color: #00008B;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+}
+p.texto4{
+    color: 		#0000CD;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-decoration-line: overline underline;
+}
+p.texto5{
+    color:#0000FF;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+    text-decoration-line: underline;
+    color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+p.texto6{
+    color:#4169E1;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+p.texto7{
+    color: #4682B4;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+    text-shadow: 0 0 3px #d483c0;
+    
+}
+p.texto8{
+    color: #00BFFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+p.texto9{
+    color: 	#1E90FF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    text-decoration-line: underline;
+}
+p.texto10{
+    color: #6495ED;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    text-decoration-line: overline underline;
+}
+
+
+
